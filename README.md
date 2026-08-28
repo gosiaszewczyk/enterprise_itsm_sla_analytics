@@ -1,4 +1,5 @@
 # enterprise_itsm_sla_analytics
+![Dashboard Preview](dashboard_preview.png)
 Interactive Power BI Dashboard &amp; Star Schema model for IT operations, SLA Adherence Monitoring and ITTL Major Incident Escalation
 # Enterprise ITSM Incident Analytics & SLA Monitoring System
 
