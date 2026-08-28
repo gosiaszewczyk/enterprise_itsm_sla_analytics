@@ -1,0 +1,6 @@
+ServiceID,ServiceName,ServiceTier,ServiceOwner
+101,SAP ERP Core,Tier 1 - Mission Critical,Global Operations
+102,Global Identity & Access (IAM),Tier 1 - Mission Critical,Security & Access
+103,Cloud Infrastructure (AWS/Azure),Tier 1 - Mission Critical,Cloud Infrastructure
+104,Salesforce Enterprise CRM,Tier 2 - Business Operational,Sales Operations
+105,Workplace Collaboration Tools,Tier 3 - Standard Support,End User Computing
